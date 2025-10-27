@@ -1,9 +1,4 @@
-<!-- 🧠 HEADER -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/126733951?v=4" alt="Alexis Frutos Lara" width="160" style="border-radius:50%; box-shadow:0px 0px 10px rgba(0,255,200,0.4); margin-bottom:15px;">
-</p>
-
-<h1 align="center" style="font-size: 2.4em; font-weight: bold;">⚙️ Alexis Frutos Lara — Backend Developer</h1>
+<h1 align="center" style="font-size: 2.4em; font-weight: bold;">Backend Developer</h1>
 <h3 align="center" style="font-size: 1.3em; color: #A9A9A9;">Especializado en Arquitectura Limpia · APIs Escalables · Despliegues Automatizados</h3>
 
 
