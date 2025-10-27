@@ -1,23 +1,6 @@
-<h1 align="center" style="font-size: 2.4em; font-weight: bold;">Backend Developer</h1>
-<h3 align="center" style="font-size: 1.3em; color: #A9A9A9;">Especializado en Arquitectura Limpia · APIs Escalables · Despliegues Automatizados</h3>
+# Backend Developer
 
-
-<!-- Hover CSS -->
-<style>
-.icon {
-  transition: all 0.25s ease-in-out;
-  border-bottom: 2px solid transparent;
-  display: flex;
-  align-items: start;
-  justify-content: start;
-}
-
-.icon:hover {
-  transform: scale(1.15);
-  filter: drop-shadow(0px 0px 6px rgba(0,255,200,0.6));
-  border-bottom: 2px solid rgba(0,255,200,0.8);
-}
-</style>
+### Especializado en Arquitectura Limpia · APIs Escalables · Despliegues Automatizados
 
 ---
 
