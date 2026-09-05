@@ -1,15 +1,31 @@
-# Backend Developer
-
-### Especializado en Arquitectura Limpia · APIs Escalables · Despliegues Automatizados
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Especializado+en+Arquitectura+Limpia;APIs+Escalables+%C2%B7+Python+%C2%B7+Rust;Despliegues+Automatizados" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
 ## 🧭 Perfil Técnico
 
 **Desarrollador Full Stack** con enfoque en **arquitectura limpia**, **desarrollo de APIs escalables** y **despliegues automatizados**.  
-Combino tecnologías modernas como **Python**, **Django**, **Next.js**, **TypeScript**, **Docker** y **Make**, optimizando cada etapa del ciclo de desarrollo —desde el backend hasta el despliegue—.
+Combino tecnologías modernas como **Python**, **Django**, **React**, **TypeScript**, **Docker** y herramientas de bajo nivel, optimizando cada etapa del ciclo de desarrollo —desde el backend hasta el despliegue—.
 
-> “El código limpio no es solo legible, también es predecible, confiable y fácil de escalar.”
+> *"El código limpio no es solo legible, también es predecible, confiable y fácil de escalar."*
+
+---
+
+## 📊 Métricas y Estadísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=tokyonight" alt="Lenguajes más usados" />
+</div>
+<br>
+<div align="center">
+  <!-- Requiere configurar WakaTime y el GitHub Action waka-readme-stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
+</div>
 
 ---
 
@@ -24,86 +40,69 @@ Trabajo bajo los principios de:
 
 ---
 
-## 🧩 Backend
+## 🧩 Backend & Sistemas
 
-- Desarrollo avanzado con **Python**, **Django** y **Django REST Framework (DRF)**.  
-- Autenticación **OAuth2**, JWT y gestión avanzada de usuarios.  
+- Desarrollo avanzado con **Python**, **Django**, **Django REST Framework (DRF)** y **Django OAuth Toolkit**.  
+- Exploración de renderizado y bajo nivel con **Rust**, **wgpu** y **Wayland**.
 - Diseño de **APIs RESTful versionadas**, documentadas con **Swagger** y **Redoc**.  
 - Integración con servicios externos mediante **Celery**, **Redis** y **webhooks**.  
-- Testing automatizado con **Pytest** y **unittest**.  
-- Manejo profesional de entornos: `.env`, `Makefile` y `docker-compose.yml`.  
+- Manejo profesional de entornos rápidos y limpios con **uv** y **ruff**.  
 
 ---
 
 ## ⚛️ Frontend
 
-- Construcción de interfaces modulares con **Next.js**, **React** y **TypeScript**.  
-- Uso avanzado de **SSR**, **ISR** y **SSG** para performance y SEO.  
-- **Tailwind CSS** + **Framer Motion** para animaciones suaves y diseño responsivo.  
-- Implementación de **Dark/Light Mode** y **componentes accesibles (ARIA)**.  
-- Control de formularios con **React Hook Form** y validación con **Zod**.  
+- Construcción de interfaces modulares y rápidas con **React**, **Vite** y **TypeScript**.  
+- Gestión de estado asíncrono con **TanStack Query**.
+- Estilizado utilitario con **Tailwind CSS** y componentes de **shadcn/ui**.  
+- Implementación de herramientas de control de calidad como **Biome** y **Bun** para optimizar builds.
 
 ---
 
 ## 🐳 DevOps & Automatización
 
-- Contenerización completa con **Docker**, incluyendo desarrollo y producción.  
+- Contenerización completa con **Docker** y **Docker Compose**.  
+- Orquestación y proxy inverso utilizando **Traefik**.
 - **Pipelines CI/CD** en GitHub Actions, GitLab y Jenkins.  
-- Configuración de entornos reproducibles con **Make**, **dotenv** y **volúmenes compartidos**.  
-- Monitoreo de logs con **Grafana**, **Prometheus** y **Traefik Dashboard**.  
-- Despliegues escalables en **Google Cloud Platform (GCP)** y **Railway**.  
+- Despliegues gestionados en VPS y entornos de nube.
 
 ---
 
 ## 🧠 Ecosistema Técnico
 
-- **PostgreSQL**, **Redis**, **MinIO**, **Traefik**, **NGINX**, **Celery**, **JWT**.  
-- **VS Code**, **PyCharm**, **DataGrip**, **Postman**, **Insomnia**, **DBeaver**.  
-- Integración de **Docker Volumes** para bases de datos persistentes.  
-- Documentación continua en **Markdown**, **Notion** y **MkDocs**.  
-- Workflow en **Linux (Ubuntu)** con entornos aislados y testing local.  
+- **Bases de Datos y Caché:** PostgreSQL, Redis, MinIO.  
+- **Herramientas de Desarrollo:** VS Codium, OpenCode, Claude Code CLI, DataGrip, Postman, DBeaver.  
+- **Sistema Operativo:** Workflow nativo en Linux (Devuan / Pop!_OS) con personalización en KDE Plasma.
+- **Documentación:** Markdown, Notion, MkDocs.  
 
 ---
 
-## 🧩 Tech Stack
+## 🛠️ Tech Stack
 
-### 🐍 Backend Core  
-<p align="left" style="display:flex; justify-content:start; align-items:start; gap:20px; flex-wrap:wrap;">
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" alt="Django"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL"/>
-</p>
+<div align="center">
+  <p><strong>Backend & Sistemas</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,rust,postgres,nodejs&theme=dark" alt="Backend Stack" />
+  </a>
+</div>
 
----
+<br>
 
-### ⚛️ Frontend Complementario  
-<p align="left" style="display:flex; justify-content:start; align-items:start; gap:20px; flex-wrap:wrap;">
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" alt="Next.js"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" alt="Tailwind CSS"/>
-</p>
+<div align="center">
+  <p><strong>Frontend Complementario</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,bun&theme=dark" alt="Frontend Stack" />
+  </a>
+</div>
 
----
+<br>
 
-### ☁️ Infraestructura & DevOps  
-<p align="left" style="display:flex; justify-content:start; align-items:start; gap:20px; flex-wrap:wrap;">
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" alt="GCP"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" width="60" alt="Traefik"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux"/>
-</p>
-
----
-
-### 🧰 Herramientas de Desarrollo  
-<p align="left" style="display:flex; justify-content:start; align-items:start; gap:20px; flex-wrap:wrap;">
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VSCode"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="60" alt="JetBrains"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" alt="Postman"/>
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" alt="Bash"/>
-</p>
+<div align="center">
+  <p><strong>Infraestructura, DevOps & Herramientas</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,gcp,bash,vscodium,postman&theme=dark" alt="DevOps Stack" />
+  </a>
+</div>
 
 ---
 
@@ -112,8 +111,6 @@ Trabajo bajo los principios de:
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
 | **API Modular Finance** | API REST modular para gestión de usuarios, cuentas y transacciones. | Django REST · PostgreSQL · Docker |
-| **MicroCore Services** | Red de microservicios interconectados mediante Traefik. | Node.js · Docker · Traefik |
-| **Fullstack Dashboard** | Panel de control en Next.js conectado a APIs backend. | Next.js · TypeScript · Django REST |
+| **MicroCore Services** | Red de microservicios interconectados para gestión de tráfico. | Node.js · Docker · Traefik |
+| **Fullstack Dashboard** | Panel de control conectado a APIs backend con alto rendimiento. | React · Vite · TypeScript · DRF |
 | **ChatBot FinTech AI** | Asistente financiero con IA para planificación de gastos y metas. | Python · NLP · Django · React |
-
----
