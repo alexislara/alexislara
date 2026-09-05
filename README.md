@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 Perfil Técnico
+## Perfil Técnico
 
 **Desarrollador Full Stack** con enfoque en **arquitectura limpia**, **desarrollo de APIs escalables** y **despliegues automatizados**.
 Combino tecnologías modernas como **Python**, **Django**, **React**, **TypeScript**, **Docker** y herramientas de bajo nivel, optimizando cada etapa del ciclo de desarrollo —desde el backend hasta el despliegue—.
@@ -15,72 +15,36 @@ Combino tecnologías modernas como **Python**, **Django**, **React**, **TypeScri
 
 ---
 
-## 📊 Métricas y Estadísticas
+## Métricas y Estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexislara&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislara&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Lenguajes más usados" />
+  <img height="180em" src="./generated/overview.svg" alt="Estadísticas de GitHub" />
+  <img height="180em" src="./generated/languages.svg" alt="Lenguajes más usados" />
 </div>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=alexislara&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Racha de Commits" />
 </div>
 
-<!--
-⚠️ NOTA: la instancia pública de Vercel para github-readme-stats y streak-stats
-puede devolver errores 429/500 en horas de mucho tráfico, porque comparte límite
-de peticiones con todos los usuarios que la usan. Si las tarjetas de arriba dejan
-de cargar, la solución más estable a largo plazo es generarlas como archivos SVG
-estáticos dentro de tu propio repo, vía GitHub Actions, en lugar de depender de
-un servicio externo en caliente. Ejemplo de workflow:
+### Sobre las métricas de lenguajes
 
-.github/workflows/stats.yml
-------------------------------------------------------------
-name: Generate GitHub Stats
-on:
-  schedule:
-    - cron: '0 */6 * * *'   # cada 6 horas
-  workflow_dispatch:
+La tarjeta de lenguajes mide el peso relativo del código commiteado en tus repos públicos (y privados si el workflow recibe un token con el scope adecuado). **No** mide qué tanto usas un lenguaje en tu día a día, solo cuánto hay escrito en tu historial de Git.
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: jstrieb/github-stats@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-------------------------------------------------------------
+Si quieres una métrica fiel al uso real, conecta [WakaTime](https://wakatime.com) en tu editor y reemplaza la tarjeta local por:
 
-Esto genera generated/overview.svg y generated/languages.svg dentro de tu propio
-repo (ej. alexislara/alexislara), y luego los referencias así, sin URL externa:
+```markdown
+![WakaTime Stats](https://wakatime.com/share/@alexislara)
+```
 
-![Estadísticas de GitHub](./generated/overview.svg)
-![Lenguajes más usados](./generated/languages.svg)
-
-Al vivir en tu propio repo, GitHub nunca las bloquea y evitas el rate limit ajeno.
--->
+> Las tarjetas se regeneran automáticamente cada 6 horas mediante
+> `.github/workflows/stats.yml` y se commitean en `generated/` como SVGs estáticos,
+> así nunca dependen de servicios externos caídos (como `github-readme-stats`,
+> cuyo despliegue público de Vercel fue pausado). Si quieres forzarlo, ve a
+> *Actions → Generate GitHub Stats → Run workflow*.
 
 ---
 
-## 📈 Lenguajes que Uso
-
-<div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislara&layout=donut&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Lenguajes más usados (detalle)" />
-</div>
-
-<!--
-Puedes ajustar esta tarjeta a tu gusto:
-- layout=donut          -> gráfico de dona (el que se usa arriba)
-- layout=donut-vertical  -> dona vertical, más compacta en ancho
-- layout=pie             -> gráfico circular clásico
-- layout=compact         -> barras horizontales (el estilo que ya tenías en Métricas)
-- langs_count=8          -> cuántos lenguajes mostrar (súbelo si usas más de 8)
-- hide=html,css          -> oculta lenguajes que no quieras mostrar
--->
-
----
-
-## ⚙️ Filosofía de Desarrollo
+## Filosofía de Desarrollo
 
 Mi objetivo principal es **crear soluciones sostenibles y de alto rendimiento** que reduzcan la deuda técnica y aumenten la productividad.
 Trabajo bajo los principios de:
@@ -91,7 +55,7 @@ Trabajo bajo los principios de:
 
 ---
 
-## 🧩 Backend & Sistemas
+## Backend & Sistemas
 
 - Desarrollo avanzado con **Python**, **Django**, **Django REST Framework (DRF)** y **Django OAuth Toolkit**.
 - Exploración de renderizado y bajo nivel con **Rust**, **wgpu** y **Wayland**.
@@ -101,7 +65,7 @@ Trabajo bajo los principios de:
 
 ---
 
-## ⚛️ Frontend
+## Frontend
 
 - Construcción de interfaces modulares y rápidas con **React**, **Vite** y **TypeScript**.
 - Gestión de estado asíncrono con **TanStack Query**.
@@ -110,7 +74,7 @@ Trabajo bajo los principios de:
 
 ---
 
-## 🐳 DevOps & Automatización
+## DevOps & Automatización
 
 - Contenerización completa con **Docker** y **Docker Compose**.
 - Orquestación y proxy inverso utilizando **Traefik**.
@@ -119,7 +83,7 @@ Trabajo bajo los principios de:
 
 ---
 
-## 🧠 Ecosistema Técnico
+## Ecosistema Técnico
 
 - **Bases de Datos y Caché:** PostgreSQL, Redis, MinIO.
 - **Herramientas de Desarrollo:** VS Codium, OpenCode, Claude Code CLI, DataGrip, Postman, DBeaver.
@@ -128,7 +92,7 @@ Trabajo bajo los principios de:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <p><strong>Backend & Sistemas</strong></p>
@@ -157,7 +121,7 @@ Trabajo bajo los principios de:
 
 ---
 
-## 💼 Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
@@ -168,7 +132,7 @@ Trabajo bajo los principios de:
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <div align="center">
 

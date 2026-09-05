@@ -1,0 +1,33 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    # Cada 6 horas — no más seguido para no agotar la cuota de la API de GitHub.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # permite regenerar manualmente desde la pestaña Actions
+  push:
+    paths:
+      - .github/workflows/stats.yml
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # necesario para que el action haga commit de los SVG
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats SVGs
+        uses: jstrieb/github-stats@master
+        with:
+          # Resetea el directorio generado en cada ejecución para no
+          # arrastrar tarjetas obsoletas si cambias la configuración.
+          regenerate: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated stats
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore(stats): regenerate GitHub stats SVG'
+          file_pattern: 'generated/*.svg'
