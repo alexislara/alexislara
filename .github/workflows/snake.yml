@@ -1,0 +1,30 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    # Cada medianoche UTC — GitHub tarda ~30 min en consolidar el gráfico.
+    - cron: '0 0 * * *'
+  workflow_dispatch: # permite regenerar manualmente desde la pestaña Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # para que el step de auto-commit funcione
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: alexislara
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated snake SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore(snake): regenerate contribution snake SVG'
+          file_pattern: 'github-contribution-grid-snake*.svg'
