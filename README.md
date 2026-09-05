@@ -23,8 +23,7 @@ Combino tecnologías modernas como **Python**, **Django**, **React**, **TypeScri
 </div>
 <br>
 <div align="center">
-  <!-- Requiere configurar WakaTime y el GitHub Action waka-readme-stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexislara&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
+  <img src="https://streak-stats.demolab.com/?user=alexislara&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
 </div>
 
 ---
