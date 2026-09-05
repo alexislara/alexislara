@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <sub><code>~/alexislara</code> &nbsp;<a href="#sobre-mí">sobre-mí</a> / <a href="#actividad-en-github">actividad</a> / <a href="#backend-y-sistemas">backend</a> / <a href="#frontend">frontend</a> / <a href="#proyectos-públicos">proyectos</a> / <a href="#contacto">contacto</a></sub>
+  <sub><code>~/alexislara</code> &nbsp;<a href="#sobre-mí">sobre-mí</a> / <a href="#actualmente">actualmente</a> / <a href="#actividad-en-github">actividad</a> / <a href="#backend-y-sistemas">backend</a> / <a href="#frontend">frontend</a> / <a href="#proyectos-públicos">proyectos</a> / <a href="#contacto">contacto</a></sub>
 </p>
 
 ---
@@ -27,15 +27,20 @@ Disfruto tomar requisitos ambiguos y convertirlos en sistemas claros, medibles y
 
 ---
 
+## Actualmente
+
+🚧 Profundizando en APIs backend con Django — mejorando arquitecturas REST, autenticación y rendimiento en proyectos con Django REST Framework.
+
+---
+
 ## Actividad en GitHub
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexislara&theme=github_dark&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexislara&theme=github_dark&hide_border=true" alt="Actividad del perfil" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alexislara&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=C7F9D4&ring_color=008F11" alt="Estadísticas de GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislara&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C7F9D4&langs_count=6" alt="Lenguajes con más uso" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexislara&theme=github_dark&hide_border=true&layout=horizontal&langs_count=5" alt="Lenguajes con más commits" />
   <img height="180" src="https://streak-stats.demolab.com/?user=alexislara&theme=dark&hide_border=true&background=000000&border=0D1F0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C7F9D4&currStreakNum=00FF41&sideNums=C7F9D4&dates=008F11&cache_seconds=86400" alt="Racha de contribuciones" />
 </div>
 
