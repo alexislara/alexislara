@@ -62,6 +62,24 @@ Al vivir en tu propio repo, GitHub nunca las bloquea y evitas el rate limit ajen
 
 ---
 
+## 📈 Lenguajes que Uso
+
+<div align="center">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislara&layout=donut&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Lenguajes más usados (detalle)" />
+</div>
+
+<!--
+Puedes ajustar esta tarjeta a tu gusto:
+- layout=donut          -> gráfico de dona (el que se usa arriba)
+- layout=donut-vertical  -> dona vertical, más compacta en ancho
+- layout=pie             -> gráfico circular clásico
+- layout=compact         -> barras horizontales (el estilo que ya tenías en Métricas)
+- langs_count=8          -> cuántos lenguajes mostrar (súbelo si usas más de 8)
+- hide=html,css          -> oculta lenguajes que no quieras mostrar
+-->
+
+---
+
 ## ⚙️ Filosofía de Desarrollo
 
 Mi objetivo principal es **crear soluciones sostenibles y de alto rendimiento** que reduzcan la deuda técnica y aumenten la productividad.
