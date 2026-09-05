@@ -18,13 +18,13 @@ Combino tecnologías modernas como **Python**, **Django**, **React**, **TypeScri
 ## 📊 Métricas y Estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=tokyonight" alt="Lenguajes más usados" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexislara&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislara&layout=compact&hide_border=true&theme=tokyonight" alt="Lenguajes más usados" />
 </div>
 <br>
 <div align="center">
   <!-- Requiere configurar WakaTime y el GitHub Action waka-readme-stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexislara&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
 </div>
 
 ---
